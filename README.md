@@ -10,5 +10,5 @@ This is the final project for General Assembly Front End Developer Course
 ## Design and Wireframe
 - I am using Figma to wireframe the design of the site
 
-##Questions
+## Questions
 - I am open to suggenstions on CSS / JavaScript tools and tricks to use!
