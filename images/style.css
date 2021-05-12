@@ -1,0 +1,22 @@
+/* Navbar */
+.nav {
+    margin: 10px;
+    height: 10vh;
+   
+    background-color: #e5f3fa;
+}
+
+.nav-link {
+    margin-left: 20px;
+    margin-top: 25px;
+    color: black;
+    font-family: 'Spartan', sans-serif;
+
+}
+
+#logo {
+   margin-top: 5px;
+    height: 9vh;
+}
+
+/* banner section */
